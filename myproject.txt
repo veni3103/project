@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 my first project and its awesome
 add chanches
+=======
+my first project and its awesome add changes to frontend file
+
+>>>>>>> 4ea2652ff75c0728fc39cc537de9f2d17287b967
